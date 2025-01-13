@@ -3,3 +3,4 @@ CompileFlags:
     - -xc
     - -Wall
     - -Ipostgresql_install/include
+    - -Iopenssl_install/include
