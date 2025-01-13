@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - -xc
+    - -Wall
+    - -Ipostgresql_install/include

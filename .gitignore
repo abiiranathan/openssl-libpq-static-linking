@@ -1,0 +1,7 @@
+openssl_build
+openssl_install
+openssl_test
+
+postgresql_build
+postgresql_install
+libpq_test
